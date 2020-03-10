@@ -14,7 +14,7 @@ export class App {
         circle.radius = 20;
         this.shapes.push(circle);
         
-        // create another circle
+        // clone a circle
         const anotherCircle = circle.clone();
         this.shapes.push(anotherCircle);
 
