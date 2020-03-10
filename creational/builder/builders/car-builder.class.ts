@@ -1,4 +1,4 @@
-import { Car } from './../products/car.class';
+import { Car } from '../products/car.class';
 import { Builder } from './builder.interface';
 import { Engine } from '../products/engine.class';
 
